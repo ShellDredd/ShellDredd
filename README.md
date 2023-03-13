@@ -20,6 +20,10 @@
   </a>
 </div>
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+
+
 ### :hammer_and_wrench: Operative Systems, Languages and Tools :
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"  title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;

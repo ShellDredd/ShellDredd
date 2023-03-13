@@ -3,9 +3,7 @@
   <img src="https://i.giphy.com/media/weJbWNRpb4V7z6PKrq/giphy.webp" width="100" <style />
 </div>
 
-<div font-size="1">
-$${\color{purple}ShellDredd Informática}$$
-</div>
+### $${\color{purple}ShellDredd Informática}$$
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexandre-varela-sysadmin">

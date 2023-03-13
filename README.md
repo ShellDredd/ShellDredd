@@ -6,7 +6,7 @@
 # $${\color{purple}ShellDredd \space \space Informática}$$
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexandre-varela-sysadmin">
+  <a href="https://shelldredd.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt="Web Site"/>
   </a>
   <a href="https://www.linkedin.com/in/alexandre-varela-sysadmin">

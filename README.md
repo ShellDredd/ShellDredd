@@ -18,13 +18,13 @@
   <a href="https://twitter.com/ShellDredd">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter"/>
   </a>
-</div>
+</div><br>
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.webp" width="100"/>
+  <img src="https://i.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.webp" width="150"/>
 </div>
 
-# $${\color{purple}ABOUT \space \space ME}$$
+## $${\color{purple}ABOUT \space \space ME}$$
 I am a system and network administrator, front end programmer and passionate about computer security  from Spain. <img src="https://i.giphy.com/media/H1pZ9SH1vGVNxixndH/giphy.webp" width="30">
 
 

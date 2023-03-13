@@ -3,7 +3,13 @@
   <img src="https://i.giphy.com/media/weJbWNRpb4V7z6PKrq/giphy.webp" width="100" <style />
 </div>
 
-<h1 style="color:blue;">ShellDredd Informática</h1>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ ShellDredd Informática @@
+```
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexandre-varela-sysadmin">

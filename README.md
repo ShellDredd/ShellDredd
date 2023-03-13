@@ -21,7 +21,7 @@
 </div>
 
 
-### I am a 
+### <img src="https://i.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.webp" width="60"> About me: 
 I am a system and network administrator, front end programmer and passionate about computer security  from Spain. <img src="https://i.giphy.com/media/H1pZ9SH1vGVNxixndH/giphy.webp" width="30">
 
 

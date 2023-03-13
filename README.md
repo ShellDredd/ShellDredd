@@ -22,6 +22,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"  title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png"  title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png"  title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;

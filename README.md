@@ -1,2 +1,1 @@
-# Perfil_ShellDredd
-Perfil de inicio de ShellDredd
+- ![#f03c15] ShellDredd

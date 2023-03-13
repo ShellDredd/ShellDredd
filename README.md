@@ -20,7 +20,10 @@
   </a>
 </div>
 
-<img src="https://i.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.webp" align="center" width="100"/><br> 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.webp" width="100"/>
+</div>
+
 # $${\color{purple}ABOUT \space \space ME}$$
 I am a system and network administrator, front end programmer and passionate about computer security  from Spain. <img src="https://i.giphy.com/media/H1pZ9SH1vGVNxixndH/giphy.webp" width="30">
 

@@ -20,7 +20,9 @@
   </a>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+### I am a 
+I am a system and network administrator, front end programmer and passionate about computer security  from Spain. <img src="https://i.giphy.com/media/H1pZ9SH1vGVNxixndH/giphy.webp" width="30">
 
 
 

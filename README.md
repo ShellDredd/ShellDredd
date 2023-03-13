@@ -7,6 +7,9 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alexandre-varela-sysadmin">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt="Web Site"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-varela-sysadmin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/channel/UCV_nyB99w6s3tNTSK6aRI9Q">

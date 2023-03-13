@@ -18,6 +18,9 @@
   <a href="https://twitter.com/ShellDredd">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter"/>
   </a>
+  <a href="https://twitter.com/ShellDredd">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)" target="_blank" alt="Discord"/>
+  </a>
 </div><br>
 
 <div id="header" align="center">

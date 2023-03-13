@@ -20,7 +20,7 @@
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Operative Systems, Languages and Tools :
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"  title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png"  title="BASH" alt="BASH" width="40" height="40"/>&nbsp;

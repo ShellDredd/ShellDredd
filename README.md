@@ -1,11 +1,9 @@
-<style>
-.header{box-shadow: 15px 5px 10px #48529944;}
-</style>
-
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/weJbWNRpb4V7z6PKrq/giphy.webp" width="100"/>
+  <img src="https://i.giphy.com/media/weJbWNRpb4V7z6PKrq/giphy.webp" width="100" <style />
 </div>
+
+<h1 style="color:blue;">ShellDredd Informática</h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexandre-varela-sysadmin">

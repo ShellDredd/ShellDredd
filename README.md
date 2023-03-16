@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://shelldredd.github.io/images/logo-text-shelldredd.jpeg" width="150"/>
+  <img src="https://shelldredd.github.io/images/logo-text-shelldredd.jpeg" width="450"/>
 </div>
 
 # $${\color{purple}ShellDredd \space \space Informática}$$
